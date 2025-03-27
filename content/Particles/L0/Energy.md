@@ -1,7 +1,7 @@
 ---
 title: Energy
 alias:
-  - Electricity, Health, Power
+  - Electricity, Force, Power
 tags:
   - L0
 ---
