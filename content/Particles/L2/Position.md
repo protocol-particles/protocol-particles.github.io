@@ -1,7 +1,7 @@
 ---
 title: Position
 alias:
-  - Location, Point, Stance
+  - Location,Point,Stance
 tags:
   - L2
 ---

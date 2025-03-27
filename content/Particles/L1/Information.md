@@ -1,7 +1,7 @@
 ---
 title: Information
 alias:
-  - Data, State, Knowledge
+  - Data,State,Knowledge
 tags:
   - L1
 ---

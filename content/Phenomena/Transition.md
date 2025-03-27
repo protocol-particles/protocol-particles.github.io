@@ -1,10 +1,10 @@
 ---
 title: Transition
 alias:
-  - Change, Corruption, Update
+  - Change,Evolution,Update
 ---
 
 Transition is the act of evolving from one [[Information.md | state]] into
-another. This process is a common property within all complex systems.
-Transitions may not be visible, depending on the observer's available
+another. This [[Emergence.md | process]] is a common property within all complex
+systems. Transitions may not be visible, depending on the observer's available
 [[Direction.md | dimensions]].
