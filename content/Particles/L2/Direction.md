@@ -1,7 +1,7 @@
 ---
 title: Direction
 alias:
-  - Content, Data, Knowledge
+  - Data,Dimension,Knowledge
 tags:
   - L2
 ---

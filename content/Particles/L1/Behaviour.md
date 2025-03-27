@@ -1,7 +1,7 @@
 ---
 title: Behaviour
 alias:
-  - Action, Expression, Movement
+  - Action,Expression,Movement
 tags:
   - L1
 ---

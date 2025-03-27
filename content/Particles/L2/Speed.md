@@ -1,7 +1,7 @@
 ---
 title: Speed
 alias:
-  - Acceleration, Momentum, Velocity
+  - Acceleration,Momentum,Velocity
 tags:
   - L2
 ---
