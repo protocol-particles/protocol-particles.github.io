@@ -2,10 +2,8 @@
 title: Position
 alias:
   - Location,Point,Stance
-tags:
-  - P2
 ---
 
-Position is a fundamental Protocol Particle of Level 2 allowing any object to be
-somewhere. Position requires [[Information.md | information]] to be discoverable
-via some kind of coordinate.
+Position is a fundamental Protocol Particle of [[Particles/P2/ | Level 2]]
+allowing any object to be somewhere. Position requires [[Information.md |
+information]] to be discoverable via some kind of coordinate.

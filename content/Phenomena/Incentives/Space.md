@@ -5,3 +5,11 @@ alias:
 ---
 
 TODO
+
+action space
+
+rule sets
+
+occupation
+
+absence

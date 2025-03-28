@@ -5,3 +5,5 @@ alias:
 ---
 
 TODO
+
+focal points
