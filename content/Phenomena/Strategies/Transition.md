@@ -10,4 +10,4 @@ This [[Emergence.md|process]] is a common property within all complex systems.
 Transitions may not be visible, depending on the observer's available
 [[Direction.md|dimensions]].
 
-[^1]: [The Art of Learning & Living Life|Josh Waitzkin](https://youtube.com/watch?v=wAnDWfEIwoE)
+[^1]: [The Art of Learning & Living Life | Josh Waitzkin](https://youtube.com/watch?v=wAnDWfEIwoE)

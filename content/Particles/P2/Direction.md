@@ -1,7 +1,7 @@
 ---
 title: Direction
 alias:
-  - Dimension,Command,Target
+  - Command,Dimension,Target
 ---
 
 Direction is a fundamental Protocol Particle of [[Particles/P2/|Level 2]]
