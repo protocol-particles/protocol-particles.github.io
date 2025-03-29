@@ -1,9 +1,11 @@
 ---
 title: Gravity
 alias:
-  - TODO
+  - Attraction,Pressure,Tension
 ---
 
 TODO
 
 focal points
+
+### Tensions

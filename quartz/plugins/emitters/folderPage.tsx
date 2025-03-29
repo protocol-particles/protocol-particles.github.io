@@ -21,6 +21,7 @@ import { i18n, TRANSLATIONS } from "../../i18n"
 import { BuildCtx } from "../../util/ctx"
 import { StaticResources } from "../../util/resources"
 interface FolderPageOptions extends FullPageLayout {
+  showFolderCount: boolean
   sort?: (f1: QuartzPluginData, f2: QuartzPluginData) => number
 }
 
@@ -104,7 +105,7 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     ...defaultListPageLayout,
-    pageBody: FolderContent({ sort: userOpts?.sort }),
+    pageBody: FolderContent({ showFolderCount: userOpts?.showFolderCount, sort: userOpts?.sort }),
     ...userOpts,
   }
 
