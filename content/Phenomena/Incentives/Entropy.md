@@ -1,7 +1,7 @@
 ---
 title: Entropy
 alias:
-  - Chaos,Dissipation,Friction
+  - Chaos,Dissipation,Permutation
 ---
 
 Entropy is the [[#Distributions|distribution]] of [[Energy.md|energy]]. This
