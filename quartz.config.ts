@@ -84,6 +84,7 @@ const config: QuartzConfig = {
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage({
+        showFolderCount: false, // we changed the codebase for this feature ourselves
         sort: (a: QuartzPluginData, b: QuartzPluginData): number => {
           return Number(a.slug?.localeCompare(b.slug || ""))
         },
