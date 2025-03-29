@@ -9,3 +9,5 @@ TODO
 focal points
 
 ### Tensions
+
+TODO

@@ -18,7 +18,12 @@ and environments in game theoretic terminology. The default behaviour of is
 
 The [[Inversion.md|inversion]] of space is absence, which plays a key role in
 the field of information theory[^1]. Information content may be increased by the
-information that is missing or by an action that has not been done.
+information that is missing or by an action that has not been done. Information
+gain via information absence is by no means paradoxical once we understand that
+different information particles bind to different boundary conditions within the
+surrounding action space. By logical consequence, the resulting relationships
+between those boundary conditions can then either be [[Symbiosis.md|symbiotic]]
+or [[Competition.md|competetive]].
 
 ### Action Space
 
