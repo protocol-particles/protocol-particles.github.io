@@ -18,3 +18,5 @@ never fully match their underlying [[Space.md#Action-Space|action spaces]],
 because action spaces are fundamentally enforced by [[Particles/|Protocol
 Particles]] and rule sets are artificial imposed by mechanism designers. This is
 how any rule set gives rise to [[Weaponization.md#MEV|MEV]].
+
+TODO deltas between rule sets
