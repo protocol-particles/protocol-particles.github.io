@@ -25,10 +25,11 @@ as most commonly known in [[Direction.md|dimensions]] of
 
 ### Distributions
 
-Every [[Emergence.md|process]] unfolds on probabilistic[^3] distributions[^4].
+Every [[Emergence.md|emerging]] phenomenon unfolds on a probabilistic[^3]
+distribution[^4] due to the degree of relativity across its own population.
 That means any process may be predictable, if a system's
 [[Information.md|inputs]] and [[Behaviour.md|behaviours]] are known in the form
-of [[Space.md#Action-Space|action space]] and [[Intention.md#Rule-Sets|rule
+of [[Space.md#Action-Space|action spaces]] and [[Intention.md#Rule-Sets|rule
 sets]].
 
 ### Permutations

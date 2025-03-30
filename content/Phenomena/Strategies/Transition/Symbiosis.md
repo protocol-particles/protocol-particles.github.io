@@ -11,7 +11,7 @@ exploits the [[Inversion.md|inversion]] of needs across populations, which turns
 [[#Depenendencies|depenendencies]] into mutually beneficial relationships.
 Complex systems may allow for lower order [[Competition.md|inversions of
 symbiosis]] to cause higher order forms of symbiosis that are
-[[Balance.md#Equilibrium|permanently]] uninverted.
+[[Balance.md#Equilibria|permanently]] uninverted.
 
 ### Dependencies
 
