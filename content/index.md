@@ -3,7 +3,10 @@ title: Protoverse
 ---
 
 This is the interface into the Protoverse, the symbiotic encyclopedia for all of
-mechanism design.
+mechanism design. The purpose of this project is to become computationally
+useful, so that its links may further our understanding of the world. Below is
+the periodic table of [[Particles/|Protocol Particles]] that give rise to all
+[[Emergence.md|emerging]] [[Phenomena/|phenomena]].
 
 ![[assets/protocol-particles.svg|512x512]]
 
