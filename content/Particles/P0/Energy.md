@@ -33,4 +33,4 @@ called [[#MEV|MEV]].
 
 [^3]: [Law Of Energy Conservation](https://en.wikipedia.org/wiki/Conservation_of_energy)
 
-[^2]: [Where there are humans there are power structures.](https://powerlaw.systems/memo-w08-feb-2025)
+[^4]: [Where there are humans there are power structures.](https://powerlaw.systems/memo-w08-feb-2025)

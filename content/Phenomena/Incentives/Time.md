@@ -1,7 +1,7 @@
 ---
 title: Time
 alias:
-  - Advance,Causality,Progression
+  - Advance,Progression,Succession
 ---
 
 Time is a [[Direction.md|dimension]] with relative relevance to the respective
