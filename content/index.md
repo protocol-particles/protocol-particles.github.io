@@ -8,7 +8,10 @@ useful, so that its links may further our understanding of the world. Below is
 the periodic table of [[Particles/|Protocol Particles]] that give rise to all
 [[Emergence.md|emerging]] [[Phenomena/|phenomena]].
 
-![[protocol-particles.svg|512x512]]
+<picture class="darkmode">
+  <img src="protocol-particles-lgt.svg" class="dayIcon" width="512" height="512" alt="Light Mode Image">
+  <img src="protocol-particles-drk.svg" class="nightIcon" width="512" height="512" alt="Dark Mode Image">
+</picture>
 
 ### Contributions
 

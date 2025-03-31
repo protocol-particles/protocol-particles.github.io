@@ -2,6 +2,9 @@
 title: P1
 ---
 
-Level 1 Particles of the Fundamental Barrier.
+Level +1 Particles of the Fundamental Barrier.
 
-![[protocol-particles-p1.svg|512x512]]
+<picture class="darkmode">
+  <img src="protocol-particles-lgt-p1.svg" class="dayIcon" width="512" height="512" alt="Light Mode Image">
+  <img src="protocol-particles-drk-p1.svg" class="nightIcon" width="512" height="512" alt="Dark Mode Image">
+</picture>
