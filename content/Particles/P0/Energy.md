@@ -6,18 +6,19 @@ alias:
 
 Energy is a fundamental Protocol Particle of [[Particles/P0/|Level +0]] found in
 all complex systems. Energy is coupled to a quantum state across the
-[[Particles/N0|Meta Barrier]] where Energy and [[Emergence.md|Emergence]]
+[[Particles/N0|Emergent Barrier]] where Energy and [[Emergence.md|Emergence]]
 Particles exist in a superposition of simultaneously alternated polarities.
 
 ### MEV
 
-MEV[^1][^2] is the emerging delta between a system's action space and its
-insufficient rule set. This emerging delta describes an energy potential that
-can be extracted strategically from all systems, because all systems are
-imperfect due to entropy, which allows for energy leakage over time. In abstract
-terms MEV equates to energy, which implies that MEV exists everywhere and that
-MEV cannot be destroyed. MEV can only be converted or redirected based on the
-energy conservation law[^3].
+MEV[^1][^2] is the emerging delta between a system's
+[[Space.md#Action-Space|action space]] and its insufficient
+[[Intention.md#Rule-Sets|rule set]]. This emerging delta describes an energy
+potential that can be extracted [[Phenomena/Strategies/|strategically]] from all
+systems, because all systems are imperfect due to [[Entropy.md|entropy]], which
+allows for energy leakage over time. In abstract terms MEV equates to energy,
+which implies that MEV exists everywhere and that MEV cannot be destroyed. MEV
+can only be converted or redirected based on the energy conservation law[^3].
 
 ### Power
 
