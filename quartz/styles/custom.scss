@@ -1,3 +1,13 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+:root[saved-theme="dark"] .lgt,
+:root[saved-theme="light"] .drk {
+  display: none;
+}
+
+:root[saved-theme="dark"] .drk,
+:root[saved-theme="light"] .lgt {
+  display: inline;
+}

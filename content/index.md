@@ -8,8 +8,6 @@ useful, so that its links may further our understanding of the world. Below is
 the periodic table of [[Particles/|Protocol Particles]] that give rise to all
 [[Emergence.md|emerging]] [[Phenomena/|phenomena]].
 
-![[protocol-particles.svg|512x512]]
-
 ### Contributions
 
 All contributions are welcome to this open source project since the Protoverse

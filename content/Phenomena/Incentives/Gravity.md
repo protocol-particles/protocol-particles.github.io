@@ -36,7 +36,8 @@ devaluation over long periods of [[Time.md|time]].
 
 Tensions are focal points providing ranges of desirable
 [[Balance.md#Equilibria|equilibria]] reinforcing themselves. Tensions define
-playful games to flourish in [[Symbiosis.md|symbiosis]].
+playful games to flourish in [[Collaboration.md|collaborative]]
+[[Behaviour.md|behaviour]].
 
 [^1]: [Focal Points](<https://en.wikipedia.org/wiki/Focal_point_(game_theory)>)
 
