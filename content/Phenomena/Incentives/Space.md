@@ -24,7 +24,7 @@ done. Information gain via information absence is by no means paradoxical once
 we understand that different information particles bind to different boundary
 conditions within the surrounding action space. By logical consequence, the
 resulting relationships between those boundary conditions can then either be
-[[Symbiosis.md|symbiotic]] or [[Competition.md|competetive]].
+[[Collaboration.md|collaborative]] or [[Competition.md|competetive]].
 
 ### Action Space
 
