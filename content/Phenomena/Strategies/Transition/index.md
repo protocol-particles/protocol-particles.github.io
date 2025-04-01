@@ -4,7 +4,7 @@ alias:
   - Bridge,Mutation,Update
 ---
 
-Transition[^1] is the [[Direction.md|directional]] [[Inversion.md|inversion]] of
+Transition[^1] is the [[Direction.md|directional]] [[Rotation.md|rotation]] of
 [[Position.md|positions]], allowing for the
 [[Competition.md#Evolution|evolution]] from one [[Information.md|state]] into
 another. This [[Emergence.md|process]] is a common property within all complex

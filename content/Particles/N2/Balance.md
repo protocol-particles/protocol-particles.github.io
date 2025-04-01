@@ -5,13 +5,14 @@ alias:
 ---
 
 Balance is a fundamental Protocol Particle of [[Particles/N2/|Level -2]]
-allowing any object to exist. Balance [[Dependence.md|requires]] all other
-Particles to be realized across any given [[Direction.md|dimension]].
+allowing functional system gradients to [[Emergence.md|emerge]]. Balance
+[[Dependence.md|requires]] all other Particles to be realized across any given
+[[Direction.md|dimension]].
 
 ### Equilibria
 
-Equilibria are [[Gravity.md#Focal-Points|focal points]] that represent the
-locally convex[^1] [[Entropy.md#Permutations|permutations]] of relatively
+Equilibria are [[Gravity.md#Focal-Points|focal points]] of locally
+convex[^1][^2] [[Entropy.md#Permutations|permutations]] providing relatively
 [[Gravity.md|stable]] system states, e.g. $f(x)=x^{2}$. Entropy dictates that
 potentially many different equilibria exist within the same system.
 [[Phenomena/Strategies/Transition/|Transitions]] between equilibria tend to
@@ -24,8 +25,8 @@ imbalanced relative to one another.
 
 ### Thresholds
 
-Thresholds are [[Gravity.md#Focal-Points|focal points]] that represent the
-locally concave[^2] [[Entropy.md#Permutations|permutations]] of relatively
+Thresholds are [[Gravity.md#Focal-Points|focal points]] of locally
+concave[^3][^4] [[Entropy.md#Permutations|permutations]] providing relatively
 [[Entropy.md|unstable]] system states, e.g. $f(x)=-x^{2}$.
 [[Gravity.md|Gravity]] dictates that the crossing of a threshold requires
 significant amounts of [[Energy.md|energy]]. Thresholds are the functional
@@ -33,4 +34,8 @@ significant amounts of [[Energy.md|energy]]. Thresholds are the functional
 
 [^1]: [Convex Function](https://en.wikipedia.org/wiki/Convex_function)
 
-[^2]: [Concave Function](https://en.wikipedia.org/wiki/Concave_function)
+[^2]: [$f(x)=x^{2}$](https://www.desmos.com/calculator/8iwjvobuur)
+
+[^3]: [Concave Function](https://en.wikipedia.org/wiki/Concave_function)
+
+[^4]: [$f(x)=-x^{2}$](https://www.desmos.com/calculator/gnzamow4zf)
