@@ -1,7 +1,7 @@
 ---
 title: Simulation
 alias:
-  - Mental-Models,Speculation,Thought-Experiments
+  - Mental-Models,If-ism,Thought-Experiments
 ---
 
 Simulation is the [[Emergence.md|creative]] process of constructing

@@ -18,8 +18,8 @@ potentially many different equilibria exist within the same system.
 [[Phenomena/Strategies/Transition/|Transitions]] between equilibria tend to
 follow tipping point dynamics, which means that systems rarely shift linearly
 between states of stability. System states of perceived [[Entropy.md|chaos]] may
-[[Energy.md|dominate]] any [[Intention.md#Rule-Sets|rule set]] for extended
-periods of [[Time.md|time]], as long as the inherent permutations of
+[[Energy.md#Power|dominate]] any [[Intention.md#Rule-Sets|rule set]] for
+extended periods of [[Time.md|time]], as long as the inherent permutations of
 multidimensional [[Position.md|points]] of [[Gravity.md|gravity]] remain
 imbalanced relative to one another.
 
