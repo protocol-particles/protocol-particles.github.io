@@ -15,4 +15,7 @@ Causality describes the logical order of distinct events within any given
 system. The reasoning capabilities emerging from causality are often
 misinterpreted. The inputs of any given system are commonly mistaken for outputs
 of said system, resulting in the notion of correct insights and incorrect
-conclusions.
+conclusions. Causality is differentiated from [[Time.md|time]], because time is
+relative to the [[Phenomena/Gravitropy/Space/index.md#Proximity|proximity]] of
+[[Energy.md|energy]], whereas causality is purely [[Behaviour.md|event]] based.
+In other words, causality is binary, whereas time is relatively continuous.

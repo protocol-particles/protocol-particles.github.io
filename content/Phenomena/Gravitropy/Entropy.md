@@ -6,12 +6,13 @@ alias:
 
 Entropy is the [[#Distributions|distribution]] of [[Energy.md|energy]]. This
 phenomenon unfolds universally[^1] in any complex system. It can be thought of
-as the [[Inversion.md|inversion]] of [[Gravity.md|gravity]], because entropy
-causes any given thing to spread out over [[Time.md|time]] within the available
-[[Space.md#Action-Space|action space]]. The [[Direction.md|directionality]] of
-entropy may or may not be desirable for either players or environments in game
-theoretic terms, because entropy gives rise to second order effects, which may
-or may not be [[Weaponization.md|weaponized]].
+as the [[Inversion.md|inversion]] of [[Phenomena/Gravitropy/Gravity/|gravity]],
+because entropy causes any given thing to spread out over [[Time.md|time]]
+within the available [[Action.md|action space]]. The
+[[Direction.md|directionality]] of entropy may or may not be desirable for
+either players or environments in game theoretic terms, because entropy gives
+rise to second order effects, which may or may not be
+[[Weaponization.md|weaponized]].
 
 ### Complexity
 
@@ -29,8 +30,7 @@ Every [[Emergence.md|emerging]] phenomenon unfolds on a probabilistic[^3]
 distribution[^4] due to the degree of relativity across its own population.
 That means any process may be predictable, if a system's
 [[Information.md|inputs]] and [[Behaviour.md|behaviours]] are known in the form
-of [[Space.md#Action-Space|action spaces]] and [[Intention.md#Rule-Sets|rule
-sets]].
+of [[Action.md|action spaces]] and [[Intention.md#Rule-Sets|rule sets]].
 
 ### Permutations
 
