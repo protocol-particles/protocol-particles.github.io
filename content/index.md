@@ -4,9 +4,10 @@ title: Protoverse
 
 This is the interface into the Protoverse, the symbiotic encyclopedia for all of
 mechanism design. The purpose of this project is to become computationally
-useful, so that its links may further our understanding of the world. Below is
-the periodic table of [[Particles/|Protocol Particles]] that give rise to all
-[[Emergence.md|emerging]] [[Phenomena/|phenomena]].
+useful, so that its links may further our understanding of the world. Start by
+exploring the periodic table of [[Particles/|Protocol Particles]], which give
+rise to all [[Emergence.md|emerging]] [[Phenomena/|phenomena]] of
+[[Phenomena/Gravitropy/|Gravitropic Topologies]].
 
 ### Contributions
 
@@ -22,8 +23,7 @@ Below are some areas that may need improvement.
 - Relationships, classifications and dimensionalities around Protocol Particles
   and Phenomena might be more or less complete or correct. Interdisciplinary
   research and intutions are more than welcome to rectify those shortcomings.
-- The status of a Protocol Particle candidate is designated to concepts that are
-  too fundamental to be considered emerging phenomena. Work in this area can
-  greatly shape the future of this symbiotic encyclopedia. Anyone is welcome to
-  influence the degree to which the Protoverse has meaning relative to our current
-  understanding of the world.
+- The candidate status is designated to concepts that are too fundamental to be
+  considered emerging phenomena. Work in this area can greatly shape the future of
+  this symbiotic encyclopedia. Anyone is welcome to influence the degree to which
+  the Protoverse has meaning relative to our current understanding of the world.

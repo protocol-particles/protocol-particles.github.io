@@ -1,7 +1,7 @@
 ---
 title: Dependence
 alias:
-  - Ingredient,Need,Reliance
+  - Need,Reliance,Requirement
 ---
 
 Dependencies [[Emergence.md|emerge]] as [[Direction.md|dimensional]]
