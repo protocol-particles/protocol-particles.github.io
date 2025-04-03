@@ -9,6 +9,15 @@ exploring the periodic table of [[Particles/|Protocol Particles]], which give
 rise to all [[Emergence.md|emerging]] [[Phenomena/|phenomena]] of
 [[Phenomena/Gravitropy/|Gravitropic Topologies]].
 
+<br>
+<br>
+
+$$
+\text{Be guided by beauty. - Jim Simons}
+$$
+
+<br>
+
 ### Contributions
 
 All contributions are welcome to this open source project since the Protoverse
