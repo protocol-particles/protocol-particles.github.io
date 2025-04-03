@@ -7,8 +7,8 @@ alias:
 Gravity is the [[Information.md|structural]] accumulation of
 [[Energy.md|energy]]. This phenomenon unfolds universally in any complex system.
 It can be thought of as the [[Inversion.md|inversion]] of
-[[Entropy.md|entropy]], because gravity causes any given thing to compress over
-[[Time.md|time]] within the available [[Action.md|action space]]. The
+[[Entropy.md|entropy]], because gravity causes any given thing to compress
+within the available [[Action.md|action space]]. The
 [[Direction.md|directionality]] of gravity may or may not be desirable for
 either players or environments in game theoretic terms, because gravity gives
 rise to second order effects, which may or may not be

@@ -6,14 +6,14 @@ alias:
 
 Space is a mechanical phenomenon enabling higher order range of
 [[Behaviour.md|motion]] by creating [[#Proximity|distance]] between distinct
-[[Particles/P2/|boundary conditions]], without which space cannot exist. Said
-boundary conditions are defined by all particles within the
-[[Particles/P0/|energetic]] and fundamental barriers [[Particles/P1/|P1]] and
-[[Particles/N1/|N1]]. The emerging [[Quantum.md|quantities]] of proximity within
+[[Particles/N2/|boundary conditions]], without which space cannot exist. Said
+boundary conditions are defined by all particles within the energetic barrier
+[[Particles/N0/|N0]], and the fundamental barriers [[Particles/N1/|N1]] and
+[[Particles/P1/|P1]]. The emerging [[Quantum.md|quantities]] of proximity within
 any given space open up [[Balance.md#Equilibria|equilibria]] and
 [[Balance.md#Thresholds|thresholds]] between players and environments in game
 theoretic terminology. The default behaviour of space is the uninverted
-[[Direction.md|dimensional]] occupation which depends on the
+[[Direction.md|dimensional]] occupation which [[Dependence.md|depends]] on the
 [[Information.md|observer's]] point of view.
 
 ### Context

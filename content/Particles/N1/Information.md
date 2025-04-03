@@ -4,7 +4,7 @@ alias:
   - Knowledge,Observability,State
 ---
 
-Information is a fundamental Protocol Particle of [[Particles/P1/|Level +1]]
+Information is a fundamental Protocol Particle of [[Particles/N1/|Level -1]]
 found in all complex systems. Information [[Dependence.md|requires]]
 [[Energy.md|energy]] to be represented via some kind of encoding. Information is
 generally imperfect since [[Time.md|time]] does not exist within the fundamental
