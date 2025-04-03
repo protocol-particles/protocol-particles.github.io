@@ -2,6 +2,10 @@
 title: Sport
 ---
 
+TODO back take with body triangle, centers of gravity are hip line and shoulder
+line, attention is usually more paid to shoulder line, because this is where the
+threat of a rear naked choke sits
+
 > [!info] Info
 >
 > More content about the **sport** industry must be added. Topics can be

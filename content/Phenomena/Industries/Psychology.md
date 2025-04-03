@@ -1,14 +1,14 @@
 ---
-title: Military
+title: Psychology
 ---
 
-TODO snipers prefer higher positions with free range of sight, without being
-seen by the enemy, various gravitational centers combine their forces in the
-optimal position
+TODO imbalance between centers of gravity within the mind, one force overpowers
+the other, one force cannot protect itself against the gravitational influence
+in proximity
 
 > [!info] Info
 >
-> More content about the **military** industry must be added. Topics can be
+> More content about the **psychology** industry must be added. Topics can be
 > freely chosen based on the author's preferences, as long as the content
 > provided contributes meaningful insights to the underlying mechanisms of our
 > world.
