@@ -5,9 +5,9 @@ alias:
 ---
 
 Energy is a fundamental Protocol Particle of [[Particles/P0/|Level +0]] found in
-all complex systems. Energy is coupled to a quantum state across the
-[[Particles/N0|Emergent Barrier]] where Energy and [[Emergence.md|Emergence]]
-Particles exist in a superposition of simultaneously alternated polarities.
+all complex systems. Energy is coupled to a quantum state across the Energetic
+Barrier [[Particles/N0|N0]] where energy and [[Emergence.md|emergence]]
+particles exist in a superposition of simultaneously alternated polarities.
 
 ### MEV
 
