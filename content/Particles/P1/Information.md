@@ -30,15 +30,16 @@ been, which means that humans are future blind. Humans employ
 
 ### Subjectivity
 
-Subjectivity is a localized phenomenon expressing some kind of
-[[Phenomena/Gravitropy/|gravitropic]] priority or utility function. Adjacent to
-the idea of the selfish gene[^1], anthropologically[^2] speaking, subjectivity
-may be a critical component for survival. Subjectivity can be turned against the
-subject itself, which indicates the existence of [[Rotation.md|rotation]] or
-[[Inversion.md|inversion]] strategies. Tragically, subjects often
-[[Weaponization.md|weaponize]] their own subjectivity against themselves
-wherever the shades between [[Balance.md#Thresholds|thresholds]] and
-[[Balance.md#Equilibria|equilibria]] cannot be easily separated.
+Subjectivity is a [[Phenomena/Gravitropy/Space/index.md#Proximity|localized]]
+phenomenon expressing some kind of [[Phenomena/Gravitropy/|gravitropic]]
+priority or utility function. Adjacent to the idea of the selfish gene[^1],
+anthropologically[^2] speaking, subjectivity may be a critical component for
+survival. Subjectivity can be turned against the subject itself, which indicates
+the existence of [[Rotation.md|rotation]] or [[Inversion.md|inversion]]
+strategies. Tragically, subjects often [[Weaponization.md|weaponize]] their own
+subjectivity against themselves wherever the shades between
+[[Balance.md#Thresholds|thresholds]] and [[Balance.md#Equilibria|equilibria]]
+cannot be easily separated.
 
 [^1]: [The Selfish Gene](https://en.wikipedia.org/wiki/Gene-centered_view_of_evolution)
 

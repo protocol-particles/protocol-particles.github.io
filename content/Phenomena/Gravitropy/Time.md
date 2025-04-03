@@ -4,14 +4,14 @@ alias:
   - Advance,Progression,Succession
 ---
 
-Time is a [[Direction.md|dimension]] with relative relevance to the respective
-[[Information.md#Oberservability|observer]]. The limitation of available time
-prompts systems to maximize their own utility function. Incentive structures may
-change dramatically given more or less time available for any given player or
-environment in game theoretic terminology. Time is differentiated from
-[[Sequence.md#Causality|causality]], which can be seen in quantum space. For
-instance, time does not exist in the [[Quantum.md|quantum space]] of
-[[Mathematics.md|mathematics]] but causality does.
+Time is a [[Direction.md|dimension]] with [[Relativity.md|relative]] relevance
+to the respective [[Information.md#Oberservability|observer]]. The limitation of
+available time prompts systems to maximize their own utility function. Incentive
+structures may change dramatically given more or less time available for any
+given player or environment in game theoretic terminology. Time is
+differentiated from [[Sequence.md#Causality|causality]], which can be seen in
+quantum space. For instance, time does not exist in the [[Quantum.md|quantum
+space]] of [[Mathematics.md|mathematics]] but causality does.
 
 ### Speed
 

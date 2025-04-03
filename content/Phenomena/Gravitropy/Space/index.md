@@ -8,12 +8,13 @@ Space is a mechanical phenomenon enabling higher order range of
 [[Behaviour.md|motion]] by creating [[#Proximity|distance]] between distinct
 [[Particles/P2/|boundary conditions]], without which space cannot exist. Said
 boundary conditions are defined by all particles within the
-[[Particles/P0/|energetic]] and [[Particles/P1/|fundamental]] barrier. The
-emerging [[Quantum.md|quantities]] of proximity within any given space open up
-[[Balance.md#Equilibria|equilibria]] and [[Balance.md#Thresholds|thresholds]]
-between players and environments in game theoretic terminology. The default
-behaviour of space is the uninverted [[Direction.md|dimensional]] occupation
-which depends on the [[Information.md|observer's]] point of view.
+[[Particles/P0/|energetic]] and fundamental barriers [[Particles/P1/|P1]] and
+[[Particles/N1/|N1]]. The emerging [[Quantum.md|quantities]] of proximity within
+any given space open up [[Balance.md#Equilibria|equilibria]] and
+[[Balance.md#Thresholds|thresholds]] between players and environments in game
+theoretic terminology. The default behaviour of space is the uninverted
+[[Direction.md|dimensional]] occupation which depends on the
+[[Information.md|observer's]] point of view.
 
 ### Context
 
@@ -26,10 +27,10 @@ means of communication and signal processing[^1].
 
 Proximity is the [[Direction.md|dimensional]] [[Inversion.md|inversion]] of
 distance, a [[Quantum.md|quantitative]] measure of how close something is
-relative to its own [[Position.md|positions]]. We can generally assume that
-[[Energy.md|forces]] closer to us are more relevant than others, as proximity
-provides a scale between [[Phenomena/Gravitropy/Gravity/|gravity]] and
-[[Entropy.md|entropy]].
+[[Relativity.md|relative]] to its own [[Position.md|positions]]. We can
+generally assume that [[Energy.md|forces]] closer to us are more relevant than
+others, as proximity provides a scale between
+[[Phenomena/Gravitropy/Gravity/|gravity]] and [[Entropy.md|entropy]].
 
 > [!info] Info
 >
