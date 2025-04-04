@@ -13,4 +13,4 @@ overlapping [[Interface.md|interfaces]] in
 
 Trust is a [[Phenomena/Gravitropy/Gravity/|gravitational]] assumption that holds
 true as long as its underlying forces remain in their respective
-[[Balance.md#Equilibria|equilibrium]].
+[[Balance.md#Equilibria|equilibria]].

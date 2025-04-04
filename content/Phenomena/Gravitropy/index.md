@@ -22,11 +22,12 @@ dimensions.
 Gravitropic dimensions describe any path along which any
 [[Behaviour.md|behaviour]] may be expressed. Any given gravitropic topology may
 contain multiple [[Direction.md|dimensions]] which affect one another based on
-their respective power dynamics. Those dimensions may as well be of the same
-kind. For instance, multiple dimensions of [[Energy.md#Power|power]] may exist
-within coordination games and social systems, simply because of the various
-[[Intention.md|desires]] expressed by many different
-[[Information.md#Subjectivity|individuals]].
+their respective [[Interface.md|interfaces]], power dynamics and correlation
+thereof. Gravitropic dimensions may as well be of the same kind, but guided by
+different gravitational currents. For instance, multiple dimensions of
+[[Energy.md#Power|power]] may exist within coordination games and social
+systems, simply because of the various [[Intention.md|desires]] expressed by
+many different [[Information.md#Subjectivity|individuals]].
 
 ### Forces
 
@@ -43,12 +44,13 @@ have on one another. Given the entropic dissipation of any given dimension,
 [[Behaviour.md|behaviour]] is always expressed by transfering energy from
 gravitational centers towards their own associated entropic edges. Those
 entropic edges represent the gravitational [[Interface.md|interfaces]] between
-dimensions and their respective forces. At those points of contact any related
-behaviour may be manipulated to the extend that energetic [[Balance.md|balance]]
-is either reached or lost. The balance reached between gravitropic forces is
-described by [[Balance.md#Equilibria|equilibria]], where relative stability may
-be reached. The balance lost between gravitropic forces is described by
-[[Balance.md#Thresholds|thresholds]], where relative instability may be caused.
+[[Direction.md|dimensions]] and their respective forces. At those points of
+contact any related behaviour may be manipulated to the extend that any given
+energetic [[Balance.md|balance]] is either reached or lost. The balance reached
+between gravitropic forces is described by [[Balance.md#Equilibria|equilibria]],
+where relative stability may be reached. The balance lost between gravitropic
+forces is described by [[Balance.md#Thresholds|thresholds]], where relative
+instability may be caused.
 
 > [!example] Examples
 >
