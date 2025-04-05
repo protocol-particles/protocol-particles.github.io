@@ -36,14 +36,14 @@ playful games to flourish in [[Collaboration.md|collaborative]]
 > provided contributes meaningful insights to the underlying mechanisms of our
 > world.
 
-> [!example] Examples
+> [!question] Questions
 >
-> > [!note]- Where do all the various kinds of gravity show up in the real
+> > [!abstract]- Where do all the various kinds of gravity show up in the real
 > > [[Competition.md#Markets|economy]]?
 > >
 > > TODO
 >
-> > [!note]- TODO
+> > [!abstract]- TODO
 > >
 > > TODO
 

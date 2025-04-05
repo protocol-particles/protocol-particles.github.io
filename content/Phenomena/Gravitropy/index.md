@@ -51,26 +51,3 @@ between gravitropic forces is described by [[Balance.md#Equilibria|equilibria]],
 where relative stability may be reached. The balance lost between gravitropic
 forces is described by [[Balance.md#Thresholds|thresholds]], where relative
 instability may be caused.
-
-> [!example] Examples
->
-> > [!note]- Government
-> >
-> > Gravitropic topolgies within the domain of governance can be explained
-> > along the dimension of societal **power**, where an institution may have
-> > the power to govern certain aspects of a society. Power is our gravitropic
-> > [[Direction.md|dimension]] in this example. The points at which an
-> > institution exercices its power are [[Energy.md|energetically]] dense and
-> > represent therefore the gravitational centers of the institutions power
-> > distribution. From those [[Position.md|centers]] of
-> > [[Phenomena/Gravitropy/Gravity/|gravity]] does then [[Entropy.md|entropy]]
-> > emerge, causing more or less significant energy fluctuations in relative
-> > [[Phenomena/Gravitropy/Space/index.md#Proximity|proximity]]. As entropy
-> > evolves the system at large through [[Phenomena/Gravitropy/Space/|space]]
-> > and [[Time.md|time]], many **gravitropic topoligies** may affect one another
-> > through their own respective centers of gravity. From there we can see very
-> > complex [[Behaviour.md|behaviours]] [[Emergence.md|emerge]] based on the
-> > multi dimensional pushing and pulling produced by all the involved
-> > gravitropic forces. The question for our institution will be, whether it
-> > can maintain its own balance of power, and which other dimensions may
-> > cause societal power to shift once a gravitational threshold was reached.

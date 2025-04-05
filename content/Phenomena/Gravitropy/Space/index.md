@@ -40,9 +40,9 @@ others, as proximity provides a scale between
 > content provided contributes meaningful insights to the underlying mechanisms
 > of our world.
 
-> [!example] Examples
+> [!question] Questions
 >
-> > [!note]- Which dimensions of space impact [[Phenomena/Strategies/|strategic]]
+> > [!abstract]- Which dimensions of space impact [[Phenomena/Strategies/|strategic]]
 > > execution the most?
 > >
 > > Considering that all the different variations of space may force different
@@ -52,7 +52,7 @@ others, as proximity provides a scale between
 > > does not care whether we multiply by 4 today or tomorrow. And when we do, we
 > > we can do it almost instantaneously.
 >
-> > [!note]- Which [[Energy.md|energy]] requirements does spacial computation
+> > [!abstract]- Which [[Energy.md|energy]] requirements does spacial computation
 > > have?
 > >
 > > Time is relative, while causality is fundamental. This assumption suggests

@@ -29,9 +29,9 @@ understanding the impacts of any given kind of speed.
 > content provided contributes meaningful insights to the underlying mechanisms
 > of our world.
 
-> [!example] Examples
+> [!question] Questions
 >
-> > [!note]- How does the scale of time influence the [[Behaviour.md|behaviour]]
+> > [!abstract]- How does the scale of time influence the [[Behaviour.md|behaviour]]
 > > of systems?
 > >
 > > Given that time is a relative dimension, different observers with different
@@ -40,7 +40,7 @@ understanding the impacts of any given kind of speed.
 > > or humans. We may find unexpected phenomena when analysing this topic more
 > > closely in collaborative or competitive arenas within and across species.
 >
-> > [!note]- Which kinds of [[Phenomena/Strategies/|strategic]] execution show
+> > [!abstract]- Which kinds of [[Phenomena/Strategies/|strategic]] execution show
 > > clear separation of time and causality?
 > >
 > > We know that time is irrelevant within the computational realm, while

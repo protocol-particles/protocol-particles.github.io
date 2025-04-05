@@ -9,9 +9,9 @@ title: Sport
 > provided contributes meaningful insights to the underlying mechanisms of our
 > world.
 
-> [!example] Examples
+> [!question] Questions
 >
-> > [!note]- Which role plays the concept of
+> > [!abstract]- Which role plays the concept of
 > > [[Phenomena/Strategies/Transition/|transitions]] in Brazilian Jiu Jitsu?
 > >
 > > Most focus in BJJ is typically put on clearly defined positions. The state
@@ -22,6 +22,6 @@ title: Sport
 > > discover more general principles of transitions that are then more broadly
 > > applicable to other competitive arenas.
 >
-> > [!note]- TODO
+> > [!abstract]- TODO
 > >
 > > TODO
