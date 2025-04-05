@@ -4,14 +4,15 @@ title: Gravitropy
 
 Gravitropy is the study of **Gravitropic Topologies**, which are abstract
 incentive structures [[Emergence.md|emerging]] from [[Energy.md|forces]] beyond
-the mechanical particle barriers [[Particles/P2/|P2]] and [[Particles/N2/|N2]].
+the mechanical particle barriers [[Particles/N2/|N2]] and [[Particles/P2/|P2]].
 In game theoretic terminology, **Gravitropic Phenomena** represent the driving
 factors for players and environments on the basis of
 [[Phenomena/Gravitropy/Gravity/|gravity]] and [[Entropy.md|entropy]] along any
 given [[Direction.md|dimension]]. There are generally two major challenges for
-mechanism designers to understand gravitropic topoligies. One, identifiy the
-[[#Dimensions|gravitropic dimensions]] within a system. And two, identify how
-[[#Forces|gravitropic forces]] affect one another.
+mechanism designers in order to understand gravitropic topoligies. One,
+identifiy the [[#Dimensions|gravitropic dimensions]] within a system. And two,
+identify how the [[#Forces|gravitropic forces]] affect one another long those
+dimensions.
 
 <img src="gravitropic-topologies-lgt.svg" class="lgt" width="512" alt="Light Mode Image">
 <img src="gravitropic-topologies-drk.svg" class="drk" width="512" alt="Dark Mode Image">
@@ -21,11 +22,12 @@ mechanism designers to understand gravitropic topoligies. One, identifiy the
 Gravitropic dimensions describe any path along which any
 [[Behaviour.md|behaviour]] may be expressed. Any given gravitropic topology may
 contain multiple [[Direction.md|dimensions]] which affect one another based on
-their respective power dynamics. Those dimensions may as well be of the same
-kind. For instance, multiple dimensions of [[Energy.md#Power|power]] may exist
-within coordination games and social systems, simply because of the various
-[[Intention.md|desires]] expressed by many different
-[[Information.md#Subjectivity|individuals]].
+their respective [[Interface.md|interfaces]], power dynamics and correlation
+thereof. Gravitropic dimensions may as well be of the same kind, but guided by
+different gravitational currents. For instance, multiple dimensions of
+[[Energy.md#Power|power]] may exist within coordination games and social
+systems, simply because of the various [[Intention.md|desires]] expressed by
+many different [[Information.md#Subjectivity|individuals]].
 
 ### Forces
 
@@ -42,12 +44,13 @@ have on one another. Given the entropic dissipation of any given dimension,
 [[Behaviour.md|behaviour]] is always expressed by transfering energy from
 gravitational centers towards their own associated entropic edges. Those
 entropic edges represent the gravitational [[Interface.md|interfaces]] between
-dimensions and their respective forces. At those points of contact any related
-behaviour may be manipulated to the extend that energetic [[Balance.md|balance]]
-is either reached or lost. The balance reached between gravitropic forces is
-described by [[Balance.md#Equilibria|equilibria]], where relative stability may
-be reached. The balance lost between gravitropic forces is described by
-[[Balance.md#Thresholds|thresholds]], where relative instability may be caused.
+[[Direction.md|dimensions]] and their respective forces. At those points of
+contact any related behaviour may be manipulated to the extend that any given
+energetic [[Balance.md|balance]] is either reached or lost. The balance reached
+between gravitropic forces is described by [[Balance.md#Equilibria|equilibria]],
+where relative stability may be reached. The balance lost between gravitropic
+forces is described by [[Balance.md#Thresholds|thresholds]], where relative
+instability may be caused.
 
 > [!example] Examples
 >

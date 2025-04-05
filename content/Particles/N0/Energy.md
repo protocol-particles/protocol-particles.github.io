@@ -4,10 +4,11 @@ alias:
   - Electromagnetism,Force,Power
 ---
 
-Energy is a fundamental Protocol Particle of [[Particles/P0/|Level +0]] found in
-all complex systems. Energy is coupled to a quantum state across the Energetic
-Barrier [[Particles/N0|N0]] where energy and [[Emergence.md|emergence]]
-particles exist in a superposition of simultaneously alternated polarities.
+Energy is the fundamental Protocol Particle of [[Particles/N0/|Level -0]] found
+in all complex systems. Energy is coupled to a quantum state across the
+Energetic Barrier [[Particles/P0|P0]] where energy and
+[[Emergence.md|emergence]] particles exist in a superposition of simultaneously
+alternated polarities.
 
 ### MEV
 
