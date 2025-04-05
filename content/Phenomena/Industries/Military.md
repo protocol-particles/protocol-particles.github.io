@@ -13,12 +13,12 @@ optimal position
 > provided contributes meaningful insights to the underlying mechanisms of our
 > world.
 
-> [!example] Examples
+> [!question] Questions
 >
-> > [!note]- TODO
+> > [!abstract]- TODO
 > >
 > > TODO
 >
-> > [!note]- TODO
+> > [!abstract]- TODO
 > >
 > > TODO

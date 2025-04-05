@@ -9,9 +9,9 @@ title: Blockchain
 > provided contributes meaningful insights to the underlying mechanisms of our
 > world.
 
-> [!example] Examples
+> [!question] Questions
 >
-> > [!note]- How much [[Competition.md#Markets|economic]] security is enough?
+> > [!abstract]- How much [[Competition.md#Markets|economic]] security is enough?
 > >
 > > Blockchains establish consensus by committing the economically relevant
 > > resources of many different network participants. The collaborative efforts
@@ -23,7 +23,7 @@ title: Blockchain
 > > limits. This topic requires more rigerous analysis, at best on the basis of
 > > case studies, experiments and historical references.
 >
-> > [!note]- Which mechanisms establish base trading pairs onchain?
+> > [!abstract]- Which mechanisms establish base trading pairs onchain?
 > >
 > > The tokenization of real world assets is a new trend onchain. Ethereum is
 > > the default public blockchain chosen by tokenization issuers. ETH the asset
