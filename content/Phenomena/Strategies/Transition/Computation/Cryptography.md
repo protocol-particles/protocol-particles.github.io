@@ -6,10 +6,10 @@ alias:
 
 Cryptography[^1] is the structural
 [[Phenomena/Strategies/Transition/Computation/|computation]] of
-[[Balance.md|symmetries]] within [[Space.md#Quantum-Space|quantum space]].
-Cryptography is most commonly used for the [[Information.md|informational]]
-protection against the [[Weaponization.md|threatening]] effects of
-[[Energy.md#MEV|adversarial]] environments.
+[[Balance.md|symmetries]] within [[Quantum.md|quantum space]]. Cryptography is
+most commonly used for the [[Information.md|informational]] protection against
+the [[Weaponization.md|threatening]] effects of [[Energy.md#MEV|adversarial]]
+environments.
 
 ### Encryption
 
