@@ -1,7 +1,7 @@
 ---
 title: Hardness
 alias:
-  - Antifragility,Reliability,Resistance
+  - Antifragility,Reliability,Resilience
 ---
 
 Hardness[^1] is the desirable form of [[Balance.md#Equilibria|equilibria]] that
