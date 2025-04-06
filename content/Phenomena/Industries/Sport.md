@@ -47,8 +47,10 @@ serious contender into submission by itself, but even a lousy rear naked choke
 may do the trick in [[Empty.md|absence]] of any meaningful defence. What we have
 described here is an [[Information.md|information]]-[[Behaviour.md|behaviour]]
 asymmetry within and accross [[Phenomena/Gravitropy/|gravitropic topolgies]],
-which may all be studied in more detail according to their very own
-[[Balance.md#Thresholds|thresholds]] and [[Balance.md#Equilibria|equilibria]].
+which all generate extremely powerful
+[[Phenomena/Gravitropy/Gravity/index.md#Focal-Points|focal points]] according to
+their very own [[Balance.md#Thresholds|thresholds]] and
+[[Balance.md#Equilibria|equilibria]].
 
 <img src="sport-example-lgt.svg" class="lgt" width="768" alt="Light Mode Image">
 <img src="sport-example-drk.svg" class="drk" width="768" alt="Dark Mode Image">
