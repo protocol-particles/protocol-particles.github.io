@@ -6,7 +6,7 @@ alias:
 
 Sports can be viewed through the lens of [[Phenomena/Gravitropy/|gravitropic
 topolgies]] in the [[Phenomena/Gravitropy/Space/index.md#Context|context]] of
-Brazilian Jiu Jitus[^1]. For the sake of this argument we are looking at the
+Brazilian Jiu Jitsu[^1]. For the sake of this argument we are looking at the
 [[Position.md|position]] of a rear naked choke[^2] combined with a body
 triangle[^3]. Important to point out in this example is that we have to consider
 two distinct, but interacting gravitropic topolgies of the same kind. That means
@@ -76,7 +76,7 @@ which may all be studied in more detail according to their very own
 > > and in which intensity causes greatly different outcomes to be realized in
 > > terms of athletic performance and physical recovery.
 
-[^1]: [Brazilian Jiu Jitus](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)
+[^1]: [Brazilian Jiu Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)
 
 [^2]: [Rear Naked Choke](https://en.wikipedia.org/wiki/Rear_naked_choke)
 
