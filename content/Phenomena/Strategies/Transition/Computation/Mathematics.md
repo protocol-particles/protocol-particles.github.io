@@ -5,10 +5,11 @@ alias:
 ---
 
 Mathematics[^1] is the formal [[Phenomena/Strategies/|strategy]] used to
-generate [[Energy.md|valuable]] insights by way of numerical
+generate [[Competition.md#Markets|valuable]] insights by way of numerical
 [[Phenomena/Strategies/Transition/Computation/|computation]]. Mathematical
-inference operates on the basis of energy efficient theorems[^2] within the
-structural [[Information.md|truth]] of [[Quantum.md|quantum space]].
+inference operates on the basis of [[Energy.md|energy]] efficient theorems[^2]
+within the [[Interface.md|structural]] [[Information.md|truth]] of
+[[Quantum.md|quantum space]].
 
 [^1]: [Mathematics](https://en.wikipedia.org/wiki/Mathematics)
 

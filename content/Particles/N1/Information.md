@@ -39,7 +39,7 @@ the existence of [[Rotation.md|rotation]] or [[Inversion.md|inversion]]
 strategies. Tragically, subjects often [[Weaponization.md|weaponize]] their own
 subjectivity against themselves wherever the shades between
 [[Balance.md#Thresholds|thresholds]] and [[Balance.md#Equilibria|equilibria]]
-cannot be easily separated.
+cannot be easily [[Phenomena/Strategies/Separation/|separated]].
 
 [^1]: [The Selfish Gene](https://en.wikipedia.org/wiki/Gene-centered_view_of_evolution)
 
