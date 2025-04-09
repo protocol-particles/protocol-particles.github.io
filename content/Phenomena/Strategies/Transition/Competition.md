@@ -9,12 +9,12 @@ be thought of as the [[Inversion.md|inversion]] of
 [[Collaboration.md|collaboration]]. Competition is the basis of any
 [[#Evolution|evolutionary]] principle, where the creation and deletion of traits
 tries to trend towards an [[Balance.md#Equilibria|equilibrium]] on a
-[[Entropy.md#Distributions|distribution]] between life and death.
+[[Distributions.md|distribution]] between life and death.
 
 ### Evolution
 
 Evolution is the fundamental strategy of advancing any system by
-[[Entropy.md#Permutations|permutation]] of its own copies. Mechanically, the
+[[Permutations.md|permutation]] of its own copies. Mechanically, the
 [[Emergence.md|process]] of evolving implies the crossing of an evolutionary
 [[Balance.md#Thresholds|threshold]], which may be subject to evolution itself.
 That is to say evolutionary thresholds are moving targets, since entropy

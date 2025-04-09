@@ -39,12 +39,12 @@ be paid by the other in order to sufficiently attack or defend.
 Another important aspect to point out here are the dynamically allocated
 [[Phenomena/Gravitropy/index.md#Force|gravitropic forces]] between both
 topologies along the shoulder and hip line relative to one another. While
-[[Entropy.md#Permutations|many]] different things do seemingly happen all
-[[Time.md|at once]] during combat, attention is usually more paid to the
-shoulder line, because this is where the threat of a submission plays out. The
-best body triangle in the world is not likely to [[Energy.md#Power|force]] any
-serious contender into submission by itself, but even a lousy rear naked choke
-may do the trick in [[Empty.md|absence]] of any meaningful defence. What we have
+[[Permutations.md|many]] different things do seemingly happen all [[Time.md|at
+once]] during combat, attention is usually more paid to the shoulder line,
+because this is where the threat of a submission plays out. The best body
+triangle in the world is not likely to [[Energy.md#Power|force]] any serious
+contender into submission by itself, but even a lousy rear naked choke may do
+the trick in [[Empty.md|absence]] of any meaningful defence. What we have
 described here is an [[Information.md|information]]-[[Behaviour.md|behaviour]]
 asymmetry within and accross [[Phenomena/Gravitropy/|gravitropic topolgies]],
 which all generate extremely powerful

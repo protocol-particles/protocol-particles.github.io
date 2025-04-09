@@ -30,7 +30,8 @@ distance, a [[Quantum.md|quantitative]] measure of how close something is
 [[Relativity.md|relative]] to its own [[Position.md|positions]]. We can
 generally assume that [[Energy.md|forces]] closer to us are more relevant than
 others, as proximity provides a scale between
-[[Phenomena/Gravitropy/Gravity/|gravity]] and [[Entropy.md|entropy]].
+[[Phenomena/Gravitropy/Gravity/|gravity]] and
+[[Phenomena/Gravitropy/Entropy/|entropy]].
 
 > [!info] Info
 >
