@@ -1,7 +1,7 @@
 ---
 title: Permutations
 alias:
-  - TODO
+  - Combination,Randomization,Variation
 ---
 
 Permutations[^1] are combinatorial derivatives of similar inputs. The

@@ -1,7 +1,7 @@
 ---
 title: Distributions
 alias:
-  - TODO
+  - Bucketing,Relevance,Weighting
 ---
 
 Every [[Emergence.md|emerging]] phenomenon unfolds on a probabilistic[^1]
