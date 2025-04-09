@@ -1,5 +1,5 @@
 ---
-title: Spacial Deltas
+title: Spacial Delta
 ---
 
 Spacial Deltas refer to the [[Empty.md|lack]] of overlapping areas that allow
