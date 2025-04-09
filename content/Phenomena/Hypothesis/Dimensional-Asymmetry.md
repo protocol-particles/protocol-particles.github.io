@@ -1,5 +1,5 @@
 ---
-title: Dimensional Asymmetries
+title: Dimensional Asymmetry
 ---
 
 Dimensional Asymmetries refer to the [[Inversion.md|inverted]] correlations that
