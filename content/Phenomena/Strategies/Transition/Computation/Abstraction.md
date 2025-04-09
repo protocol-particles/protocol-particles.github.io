@@ -11,7 +11,7 @@ allows it to be universally understood by the majority of a population.
 
 ### Concepts
 
-Concepts are [[Permutations.md|permutations]] of [[Dependence.md|connected]]
+Concepts are [[Permutation.md|permutations]] of [[Dependence.md|connected]]
 [[Information.md|information]] that form
 [[Phenomena/Gravitropy/Gravity/|gravitational]] centers due to their
 [[Energy.md|energetically]] dense nature. Concepts can therefore only be found

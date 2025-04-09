@@ -12,7 +12,7 @@ allowing functional system gradients to [[Emergence.md|emerge]]. Balance
 ### Equilibria
 
 Equilibria are [[Phenomena/Gravitropy/Gravity/index.md#Focal-Points|focal
-points]] of locally convex[^1][^2] [[Permutations.md|permutations]], e.g.
+points]] of locally convex[^1][^2] [[Permutation.md|permutations]], e.g.
 $f(x)=x^{2}$, providing [[Relativity.md|relatively]]
 [[Phenomena/Gravitropy/Gravity/|stable]] system states.
 [[Phenomena/Gravitropy/Entropy/|Entropy]] dictates that potentially many
@@ -32,7 +32,7 @@ another.
 ### Thresholds
 
 Thresholds are [[Phenomena/Gravitropy/Gravity/index.md#Focal-Points|focal
-points]] of locally concave[^3][^4] [[Permutations.md|permutations]], e.g.
+points]] of locally concave[^3][^4] [[Permutation.md|permutations]], e.g.
 $f(x)=-x^{2}$, providing [[Relativity.md|relatively]]
 [[Phenomena/Gravitropy/Entropy/|unstable]] system states. We consider thresholds
 to be the functional [[Inversion.md|inversions]] of [[#Equilibria|equilibria]].

@@ -1,5 +1,5 @@
 ---
-title: Distributions
+title: Distribution
 alias:
   - Bucketing,Relevance,Weighting
 ---

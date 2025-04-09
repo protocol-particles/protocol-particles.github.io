@@ -10,7 +10,7 @@ topolgies]] along the [[Direction.md|dimension]] of societal
 aspects of society, and the [[Position.md|points]] at which an institution
 exercices its power are [[Energy.md|energetically]] dense. Those dense regions
 of energy represent the [[Phenomena/Gravitropy/Gravity/|gravitational]] centers
-of the institution's power [[Distributions.md|distribution]]. From those centers
+of the institution's power [[Distribution.md|distribution]]. From those centers
 of gravity does then [[Phenomena/Gravitropy/Entropy/|entropy]] emerge, causing
 more or less significant energy fluctuations between interacting gravity
 centers, based on their respective influence. As entropy evolves the system

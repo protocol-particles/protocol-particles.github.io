@@ -25,9 +25,9 @@ converted or redirected based on the energy conservation law[^3].
 
 Power is the higher order ability to bend a system to one's own will, which may
 apply to players and environments alike in game theoretic terminology. Power is
-never given, power is always taken[^4]. The power to exploit an insufficient
-[[Intention.md#Rule-Sets|rule set]] is described by the systemic energy leakage
-called [[#MEV|MEV]].
+never given, power is always taken[^4]. The power to [[Exploitation.md|exploit]]
+an insufficient [[Intention.md#Rule-Sets|rule set]] is described by the systemic
+energy leakage called [[#MEV|MEV]].
 
 [^1]: [Flashbots](https://www.flashbots.net)
 
