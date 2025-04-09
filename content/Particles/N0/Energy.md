@@ -16,18 +16,18 @@ MEV[^1][^2] is the emerging delta between a system's [[Action.md|action space]]
 and its insufficient [[Intention.md#Rule-Sets|rule set]]. This emerging delta
 describes an energy potential that can be extracted
 [[Phenomena/Strategies/|strategically]] from all systems, because all systems
-are imperfect due to [[Entropy.md|entropy]], which allows for energy leakage
-over time. In abstract terms MEV equates to energy, which implies that MEV
-exists everywhere and that MEV cannot be destroyed. MEV can only be converted or
-redirected based on the energy conservation law[^3].
+are imperfect due to [[Phenomena/Gravitropy/Entropy/|entropy]], which allows for
+energy leakage over time. In abstract terms MEV equates to energy, which implies
+that MEV exists everywhere and that MEV cannot be destroyed. MEV can only be
+converted or redirected based on the energy conservation law[^3].
 
 ### Power
 
 Power is the higher order ability to bend a system to one's own will, which may
 apply to players and environments alike in game theoretic terminology. Power is
-never given, power is always taken[^4]. The power to exploit an insufficient
-[[Intention.md#Rule-Sets|rule set]] is described by the systemic energy leakage
-called [[#MEV|MEV]].
+never given, power is always taken[^4]. The power to [[Exploitation.md|exploit]]
+an insufficient [[Intention.md#Rule-Sets|rule set]] is described by the systemic
+energy leakage called [[#MEV|MEV]].
 
 [^1]: [Flashbots](https://www.flashbots.net)
 

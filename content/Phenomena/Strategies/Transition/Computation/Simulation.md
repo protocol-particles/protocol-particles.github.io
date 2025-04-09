@@ -17,8 +17,9 @@ Thought experiments[^2] describe the [[Intention.md|cognitive]] kind of
 [[Phenomena/Strategies/|strategies]] that help humans to illuminate the
 [[Information.md|uncertainties]] of the world around them. In that sense,
 thought experiments resemble the same kind of outward energy
-[[Direction.md|distribution]] on a cognitive level that [[Entropy.md|entropy]]
-exercises [[Particles/P0/|energetically]].
+[[Direction.md|distribution]] on a cognitive level that
+[[Phenomena/Gravitropy/Entropy/|entropy]] exercises
+[[Particles/P0/|energetically]].
 
 ### Mental Models
 

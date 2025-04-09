@@ -7,8 +7,9 @@ incentive structures [[Emergence.md|emerging]] from [[Energy.md|forces]] beyond
 the mechanical particle barriers [[Particles/N2/|N2]] and [[Particles/P2/|P2]].
 In game theoretic terminology, **Gravitropic Phenomena** represent the driving
 factors for players and environments on the basis of
-[[Phenomena/Gravitropy/Gravity/|gravity]] and [[Entropy.md|entropy]] along any
-given [[Direction.md|dimension]]. There are generally two major challenges for
+[[Phenomena/Gravitropy/Gravity/|gravity]] and
+[[Phenomena/Gravitropy/Entropy/|entropy]] along any given
+[[Direction.md|dimension]]. There are generally two major challenges for
 mechanism designers in order to understand gravitropic topoligies. One,
 identifiy the [[#Dimensions|gravitropic dimensions]] within a system. And two,
 identify how the [[#Forces|gravitropic forces]] affect one another long those
@@ -33,16 +34,16 @@ many different [[Information.md#Subjectivity|individuals]].
 
 Gravitropic forces are described as
 [[Phenomena/Gravitropy/Gravity/|gravitational]] centers and
-[[Entropy.md|entropic]] edges. Every gravitropic dimension has potentially
-multiple centers, and every center has potentially multiple edges. All of those
-[[Position.md|points]] are [[Energy.md|energetically]] dense areas.
-Gravitational centers pull everthing in, while entropic edges try to reach
-everything around them far and wide. Any given gravitropic force may affect any
-given system at large, depending on the involved energy levels and relative
-[[Phenomena/Gravitropy/Space/index.md#Proximity|proximity]] that those forces
-have on one another. Given the entropic dissipation of any given dimension,
-[[Behaviour.md|behaviour]] is always expressed by transfering energy from
-gravitational centers towards their own associated entropic edges. Those
+[[Phenomena/Gravitropy/Entropy/|entropic]] edges. Every gravitropic dimension
+has potentially multiple centers, and every center has potentially multiple
+edges. All of those [[Position.md|points]] are [[Energy.md|energetically]] dense
+areas. Gravitational centers pull everthing in, while entropic edges try to
+reach everything around them far and wide. Any given gravitropic force may
+affect any given system at large, depending on the involved energy levels and
+relative [[Phenomena/Gravitropy/Space/index.md#Proximity|proximity]] that those
+forces have on one another. Given the entropic dissipation of any given
+dimension, [[Behaviour.md|behaviour]] is always expressed by transfering energy
+from gravitational centers towards their own associated entropic edges. Those
 entropic edges represent the gravitational [[Interface.md|interfaces]] between
 [[Direction.md|dimensions]] and their respective forces. At those points of
 contact any related behaviour may be manipulated to the extend that any given
