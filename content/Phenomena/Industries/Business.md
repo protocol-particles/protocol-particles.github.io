@@ -2,6 +2,11 @@
 title: Business
 ---
 
+TODO many gravitational centers of influence exist within the organizational
+hierarchy of a business, designated leadership roles may not produce the
+strategic influence that they ought to have, if other gravitropic forces
+overpower the definition of a title
+
 > [!info] Info
 >
 > More content about the **business** industry must be added. Topics can be

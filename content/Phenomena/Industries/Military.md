@@ -2,6 +2,10 @@
 title: Military
 ---
 
+TODO snipers prefer higher positions with free range of sight, without being
+seen by the enemy, various gravitational centers combine their forces in the
+optimal position
+
 > [!info] Info
 >
 > More content about the **military** industry must be added. Topics can be
